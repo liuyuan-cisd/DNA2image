@@ -1,0 +1,11 @@
+{
+	"size":100,
+	"epoch":10,
+	"window":6,
+	"min_count":1,
+	"workers":5,
+	"sg":1, 
+	"hs":1,
+	"min_n":2,
+	"max_n":4
+}
